@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Zachary Berry HCI-Portfolio
 
-You can use the [editor on GitHub](https://github.com/ChocoThunda/HCI-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my Github Website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Porfolio
 
-### Markdown
+1. [Design for Wellbeing](https://medium.com/@zachberry_90708/design-for-wellbeing-2c6e9dc2f3a2)
+This project involves detecting a user's emotion and attempts to interpret and provide ways to positively affect emotion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. [Design for Understanding](https://medium.com/@zachberry_90708/designing-for-understanding-wpi-a97f157967c6)
+This project involves data visualization in which our group picked a data set and proceeded to create charts conveying clear and persuasive information
 
-```markdown
-Syntax highlighted code block
+3. [Design for Tension](https://medium.com/@zachberry_90708/design-for-tension-1be8cc134864)
+This project involves creating a chat bot that users can interact with. This chat bot's job is to inform the user on a controversial topic of our choosing.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChocoThunda/HCI-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4. [Design for Another World](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)
+This project involves creating a VR world that users can interact with. My group created a video game for this project.
