@@ -15,3 +15,6 @@ This project involves creating a chat bot that users can interact with. This cha
 
 4. [Design for Another World](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)
 This project involves creating a VR world that users can interact with. My group created a video game for this project.
+
+5. [Final Manifesto]()
+Here is the link to my Final Manifesto if you'd like to see that as well!!!
